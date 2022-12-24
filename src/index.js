@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import CardList from './CardList.js'
-import Card from './Card';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import { users } from './users'
@@ -12,9 +11,7 @@ root.render(
   <React.StrictMode>
     {
       <div>
-        <Card id={users[0].id} name={users[0].name} email={users[0].email} />
-        <Card />
-        <Card />
+        <CardList users={users}/>
       </div>
     }
   </React.StrictMode>

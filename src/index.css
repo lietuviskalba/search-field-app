@@ -1,6 +1,8 @@
 body {
-  background-color: rgb(57, 55, 55);
-  margin: 0;
+  background: linear-gradient(to right, rgb(25, 116, 101), rgb(117, 191, 179));
+  margin: 0px;
+  height: 100%;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -8,7 +10,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1{
+h1 {
   color: wheat;
 }
 

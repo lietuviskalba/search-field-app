@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import './App.css';
 import CardList from './CardList.js';
 import SearchBox from "./SearchBox.js";
 import { users } from './users';
@@ -6,7 +7,7 @@ import { users } from './users';
 class App extends Component {
     constructor() {
         super();
-        this.state = {
+        this.state = { 
             users: users,
             searchField: ''
         }

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BuggedBit';
+    font-style: normal;
+    font-weight: bold;
+    src: local('BuggedBit'), url('BuggedBit.woff') format('woff');
+}
+
+h1 {
+    font-family: 'BuggedBit';
+    color: #FCAC75;
+    background-color: #B76327;
+    border-radius: 20px;
+}

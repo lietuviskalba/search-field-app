@@ -2,7 +2,7 @@
     font-family: 'BuggedBit';
     font-style: normal;
     font-weight: bold;
-    src: local('BuggedBit'), url('BuggedBit.woff') format('woff');
+    src: local('BuggedBit'), url('../Assets/Fonts/BuggedBit.woff') format('woff');
 }
 
 h1 {

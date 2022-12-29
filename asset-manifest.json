@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/search-field-app/static/css/main.4a6a6c25.css",
+    "main.js": "/search-field-app/static/js/main.45b39f34.js",
+    "static/js/787.43d37e0d.chunk.js": "/search-field-app/static/js/787.43d37e0d.chunk.js",
+    "static/media/BuggedBit.woff": "/search-field-app/static/media/BuggedBit.209abaab47a2f79b8ece.woff",
+    "index.html": "/search-field-app/index.html",
+    "main.4a6a6c25.css.map": "/search-field-app/static/css/main.4a6a6c25.css.map",
+    "main.45b39f34.js.map": "/search-field-app/static/js/main.45b39f34.js.map",
+    "787.43d37e0d.chunk.js.map": "/search-field-app/static/js/787.43d37e0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a6a6c25.css",
+    "static/js/main.45b39f34.js"
+  ]
+}
